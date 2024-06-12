@@ -1,0 +1,55 @@
+<div class="movie">
+  <div class="movie-buttons">
+    <button mat-button color="accent" (click)="goBack()">
+      <mat-icon>arrow_back</mat-icon>
+    </button>
+  </div>
+  <div class="movie-detail">
+    <mat-card class="movie-detail-card" *ngIf="movie">
+      <img
+        mat-card-image
+        [src]="getMoviePosterUrl(movie.poster_path)"
+        alt="Poster of {{ movie.title }}"
+      />
+
+      <mat-card-header>
+        <mat-card-title>{{ movie.title }}</mat-card-title>
+        <mat-card-subtitle>{{ movie.tagline }}</mat-card-subtitle>
+      </mat-card-header>
+
+      <mat-card-content>
+        <p><strong>Sinopsis:</strong> {{ movie.overview }}</p>
+        <!-- Desplegable: Show all details -->
+        <mat-accordion>
+          <mat-expansion-panel>
+            
+            <mat-expansion-panel-header>
+              <mat-panel-title>
+                Ver más detalles
+              </mat-panel-title>
+            </mat-expansion-panel-header>
+
+            <p><strong>Fecha de lanzamiento:</strong> {{ movie.release_date | date }}</p>
+            <p><strong>Duración:</strong> {{ movie.runtime }} minutos</p>
+            <p><strong>Idioma original:</strong> {{ movie.original_language }}</p>
+            <p><strong>Popularidad:</strong> {{ movie.popularity }}</p>
+            <p><strong>Calificación:</strong> {{ movie.vote_average }} ({{ movie.vote_count }} votos)</p>
+            <p><strong>Presupuesto:</strong> {{ movie.budget | currency }}</p>
+            <p><strong>Ingresos:</strong> {{ movie.revenue | currency }}</p>
+          </mat-expansion-panel>
+        </mat-accordion>
+      </mat-card-content>
+      <mat-card-footer>
+        <a
+          *ngIf="movie.imdb_id"
+          mat-button
+          color="primary"
+          [href]="getImdbUrl(movie.imdb_id)"
+          target="_blank"
+          class="imdb-link"
+          >Ver en IMDb</a
+        >
+      </mat-card-footer>
+    </mat-card>
+  </div>
+</div>

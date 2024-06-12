@@ -1,0 +1,48 @@
+.movie-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.movie-cards a {
+  text-decoration: none;
+  color: inherit;
+  cursor: default;
+}
+
+.movie-card {
+  width: 300px;
+  flex: 1;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.movie-card:hover {
+  scale: 1.02;
+}
+
+.header {
+  margin-bottom: 10px;
+}
+
+.footer {
+  padding: 15px;
+}
+
+.movie-card img {
+  width: auto;
+  height: 375px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.overview {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 6em;
+  text-align: justify;
+}

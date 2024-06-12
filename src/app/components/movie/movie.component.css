@@ -1,0 +1,49 @@
+.movie {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+.movie-buttons {
+  display: flex;
+  justify-content: end;
+  gap: 5px;
+  margin: 10px;
+}
+
+.movie-buttons button {
+  padding-bottom: 0px;
+  padding-top: 4px;
+  background-color: #707ebc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.movie-detail {
+  display: flex;
+  justify-content: center;
+}
+
+.movie-detail-card {
+  max-width: 700px;
+  width: 100%;
+}
+
+mat-card-content p {
+  margin: 10px 0;
+}
+
+mat-card-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.imdb-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #707ebc;
+  padding: 15px;
+}

@@ -1,0 +1,13 @@
+<div class="movies">
+  <div class="movies-buttons">
+    <button (click)="setViewList()" [class.selected]="list">
+      <mat-icon>view_list</mat-icon>
+    </button>
+    <button (click)="setViewCard()" [class.selected]="!list">
+      <mat-icon>view_module</mat-icon>
+    </button>
+  </div>
+
+  <app-grid *ngIf="list" [movies]="movies"></app-grid>
+  <app-card *ngIf="!list" [movies]="movies"></app-card>
+</div>

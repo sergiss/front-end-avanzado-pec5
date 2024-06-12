@@ -1,0 +1,26 @@
+.movies {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+.movies-buttons {
+  display: flex;
+  justify-content: end;
+  gap: 5px;
+  margin: 10px;
+}
+
+.movies-buttons button {
+  padding-bottom: 0px;
+  padding-top: 4px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #707ebc;
+  color: white;
+}
