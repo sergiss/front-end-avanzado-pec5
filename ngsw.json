@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1718304489485,
+  "timestamp": 1718305574246,
   "index": "https://sergiss.github.io/front-end-avanzado-pec5/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "https://sergiss.github.io/front-end-avanzado-pec5/chunk-MCNYW3XO.js",
         "https://sergiss.github.io/front-end-avanzado-pec5/favicon.ico",
         "https://sergiss.github.io/front-end-avanzado-pec5/index.html",
-        "https://sergiss.github.io/front-end-avanzado-pec5/main-63CYBP6O.js",
+        "https://sergiss.github.io/front-end-avanzado-pec5/main-NR6ULLHB.js",
         "https://sergiss.github.io/front-end-avanzado-pec5/manifest.webmanifest",
         "https://sergiss.github.io/front-end-avanzado-pec5/polyfills-A7MJM4D4.js",
         "https://sergiss.github.io/front-end-avanzado-pec5/styles-IHLR3ZBD.css"
@@ -72,8 +72,8 @@
     "https://sergiss.github.io/front-end-avanzado-pec5/chunk-6LWKCB6X.js": "5d1b965a3a1e6e0656d81de8ba34abcf17f1e41e",
     "https://sergiss.github.io/front-end-avanzado-pec5/chunk-MCNYW3XO.js": "4ee072ac29273d8339aa6aa382ac58df608a3def",
     "https://sergiss.github.io/front-end-avanzado-pec5/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://sergiss.github.io/front-end-avanzado-pec5/index.html": "3499098968fcf64afb56c6f5e622a23f55e6b2a0",
-    "https://sergiss.github.io/front-end-avanzado-pec5/main-63CYBP6O.js": "fff659ef17ef075b1188386e2aafb18a5a25deb5",
+    "https://sergiss.github.io/front-end-avanzado-pec5/index.html": "37da4207ad425927273d9f182033a1493f1afd88",
+    "https://sergiss.github.io/front-end-avanzado-pec5/main-NR6ULLHB.js": "5516ba28a2462f944ff4e72e049cf0032fd6ac2c",
     "https://sergiss.github.io/front-end-avanzado-pec5/manifest.webmanifest": "2fa9975fb2e15b38b0e5c635eed5eedbd0b959f9",
     "https://sergiss.github.io/front-end-avanzado-pec5/polyfills-A7MJM4D4.js": "547053781d5952561abe68a51cc6c1a2b1b51c55",
     "https://sergiss.github.io/front-end-avanzado-pec5/styles-IHLR3ZBD.css": "be91cf40aaee113b10013186eabe7e766e389955"
