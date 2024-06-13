@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1718259829490,
-  "index": "/index.html",
+  "timestamp": 1718304489485,
+  "index": "https://sergiss.github.io/front-end-avanzado-pec5/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-6LWKCB6X.js",
-        "/chunk-MCNYW3XO.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main-3ZB2VCVC.js",
-        "/manifest.webmanifest",
-        "/polyfills-A7MJM4D4.js",
-        "/styles-IHLR3ZBD.css"
+        "https://sergiss.github.io/front-end-avanzado-pec5/chunk-6LWKCB6X.js",
+        "https://sergiss.github.io/front-end-avanzado-pec5/chunk-MCNYW3XO.js",
+        "https://sergiss.github.io/front-end-avanzado-pec5/favicon.ico",
+        "https://sergiss.github.io/front-end-avanzado-pec5/index.html",
+        "https://sergiss.github.io/front-end-avanzado-pec5/main-63CYBP6O.js",
+        "https://sergiss.github.io/front-end-avanzado-pec5/manifest.webmanifest",
+        "https://sergiss.github.io/front-end-avanzado-pec5/polyfills-A7MJM4D4.js",
+        "https://sergiss.github.io/front-end-avanzado-pec5/styles-IHLR3ZBD.css"
       ],
       "patterns": []
     },
@@ -30,15 +30,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/css/animate.css",
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/css/animate.css",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-128x128.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-144x144.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-152x152.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-192x192.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-384x384.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-512x512.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-72x72.png",
+        "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -60,23 +60,23 @@
     }
   ],
   "hashTable": {
-    "/assets/css/animate.css": "1d5c16e4a56f56ceeff595897da8673875104012",
-    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/chunk-6LWKCB6X.js": "5d1b965a3a1e6e0656d81de8ba34abcf17f1e41e",
-    "/chunk-MCNYW3XO.js": "4ee072ac29273d8339aa6aa382ac58df608a3def",
-    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "1cd3f50af12adc6ccfa8da58e7d5235abb6bd239",
-    "/main-3ZB2VCVC.js": "64d60173cdc63804ab703d246bbde10ff6582bd9",
-    "/manifest.webmanifest": "2fa9975fb2e15b38b0e5c635eed5eedbd0b959f9",
-    "/polyfills-A7MJM4D4.js": "547053781d5952561abe68a51cc6c1a2b1b51c55",
-    "/styles-IHLR3ZBD.css": "be91cf40aaee113b10013186eabe7e766e389955"
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/css/animate.css": "1d5c16e4a56f56ceeff595897da8673875104012",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://sergiss.github.io/front-end-avanzado-pec5/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://sergiss.github.io/front-end-avanzado-pec5/chunk-6LWKCB6X.js": "5d1b965a3a1e6e0656d81de8ba34abcf17f1e41e",
+    "https://sergiss.github.io/front-end-avanzado-pec5/chunk-MCNYW3XO.js": "4ee072ac29273d8339aa6aa382ac58df608a3def",
+    "https://sergiss.github.io/front-end-avanzado-pec5/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://sergiss.github.io/front-end-avanzado-pec5/index.html": "3499098968fcf64afb56c6f5e622a23f55e6b2a0",
+    "https://sergiss.github.io/front-end-avanzado-pec5/main-63CYBP6O.js": "fff659ef17ef075b1188386e2aafb18a5a25deb5",
+    "https://sergiss.github.io/front-end-avanzado-pec5/manifest.webmanifest": "2fa9975fb2e15b38b0e5c635eed5eedbd0b959f9",
+    "https://sergiss.github.io/front-end-avanzado-pec5/polyfills-A7MJM4D4.js": "547053781d5952561abe68a51cc6c1a2b1b51c55",
+    "https://sergiss.github.io/front-end-avanzado-pec5/styles-IHLR3ZBD.css": "be91cf40aaee113b10013186eabe7e766e389955"
   },
   "navigationUrls": [
     {
