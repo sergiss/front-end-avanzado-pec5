@@ -10,6 +10,7 @@
         mat-card-image
         [src]="getMoviePosterUrl(movie.poster_path)"
         alt="Poster of {{ movie.title }}"
+        loading="lazy"
       />
 
       <mat-card-header>

@@ -1,9 +1,9 @@
 <div class="movies">
   <div class="movies-buttons">
-    <button (click)="setViewList()" [class.selected]="list">
+    <button (click)="setViewList()" [class.selected]="list" aria-label="View list">
       <mat-icon>view_list</mat-icon>
     </button>
-    <button (click)="setViewCard()" [class.selected]="!list">
+    <button (click)="setViewCard()" [class.selected]="!list" aria-label="View card">
       <mat-icon>view_module</mat-icon>
     </button>
   </div>
